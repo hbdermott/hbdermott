@@ -6,11 +6,11 @@
 </div>
 
 ## 👨🏻‍💻 About Me 
-- 🔭 I’m currently working on Fullstack development
-- 🌱 I’m currently learning Firebase + Next.js
-- 👯 I’m looking to collaborate on React projects
-- 🎓 I just got my BS in CS from UCLA
-- 🤔 I’m looking for help with finding a good internship...
+- 💼 Doing QA and App support at Convergence.net
+- 🔭 Working with Fullstack development
+- 🌱 Learning React Native and C#
+- 👯 Colab on React and Games
+- 🎓 BS in CS from UCLA. MS in SWE from UCI on the way.
 - 💬 Ask me about how to teach your parents how to "fix" the internet
 
 <br>
