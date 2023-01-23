@@ -6,11 +6,11 @@
 </div>
 
 ## 👨🏻‍💻 About Me 
-- 💼 Doing QA and App support at Convergence.net
+- 💼 Software Dev at Convergence.net
 - 🔭 Working with Fullstack development
 - 🌱 Learning React Native and C#
 - 👯 Colab on React and Games
-- 🎓 BS in CS from UCLA. MS in SWE from UCI on the way.
+- 🎓 BS in CS from UCLA.
 - 💬 Ask me about how to teach your parents how to "fix" the internet
 
 <br>
@@ -18,10 +18,9 @@
 
 ## 🛠 The Techs
 
-- 💻 JavaScript && Node || C && C++ || Python || HTML && CSS
-- 🌐 React && Native || Next.js || Express || TensorFlow || Pandas || NumPy
-- 🛢  PostgreSQL || Firebase
-- 🔧 VSCode || Unix && Linux || Git
+- 💻 C#/C++ || JS || Python
+- 🌐 .NET + Blazor || React
+- 🛢  SQL Server || Firebase
 <br>
 
 ###  🤝 Connect with Me
