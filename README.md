@@ -29,7 +29,7 @@
 
 <!-- - Links: [Tale.ink](https://tale.ink/read) - [hbdermott/tale](https://github.com/hbdermott/tale) -->
 
-<br>
+<!-- <br>
 <br>
 <div align="center"><a href="https://github.com/hbdermott/tale">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hbdermott&repo=tale&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;icon_color=fff"/> 
@@ -43,3 +43,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbdermott&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;icon_color=fff&langs_count=3&hide=shaderlab,java,css,hlsl"/>
 
 </div>
+ -->
