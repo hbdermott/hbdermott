@@ -11,7 +11,7 @@
 - 🌱 Learning React Native
 - 👯 Colab on Games
 - 🎓 BS in CS from UCLA.
-- 💬 Ask me about how to teach your parents how to "fix" the internet
+- 💬 Ask me about teaching your parents to "fix" the internet
 
 <br>
 
