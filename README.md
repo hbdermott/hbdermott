@@ -7,9 +7,9 @@
 
 ## 👨🏻‍💻 About Me 
 - 💼 Software Dev at Convergence.net
-- 🔭 Working with Fullstack development
-- 🌱 Learning React Native and C#
-- 👯 Colab on React and Games
+- 🔭 Working on Fullstack .NET development
+- 🌱 Learning React Native
+- 👯 Colab on Games
 - 🎓 BS in CS from UCLA.
 - 💬 Ask me about how to teach your parents how to "fix" the internet
 
